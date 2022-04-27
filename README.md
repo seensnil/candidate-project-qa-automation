@@ -1,4 +1,4 @@
-# ZoomCare Candidate Code Challenge - QA / Automation
+# ZoomCare Candidate Code Challenge - QA / Automation -Updated
 
 ![ZoomCare Logo](https://avatars0.githubusercontent.com/u/48925141?s=150)
 
